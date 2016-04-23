@@ -14,21 +14,9 @@ Some parcel services give you a really hard time when it comes to registering so
 
 ## Installation
 
-Just pull this package in through composer by adding it to your `composer.json` file:
+Install the package with composer:
 
-```json
-{
-    "require": {
-        "sauladam/shipment-tracker": "~0.2"
-    }
-}
-```
-
-Don't forget to run 
-
-    $ composer update
-
-after that.
+    $ composer require sauladam/shipment-tracker
 
 ## Supported Carriers
 The following carriers and languages are currently supported by this package:
